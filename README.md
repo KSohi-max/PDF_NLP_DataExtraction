@@ -37,7 +37,7 @@ Documents were not of high quality as they were downloaded from internet. The co
 * Prominent words (high frequency) in Word Cloud provide quick understanding of each individual PDF SOW.
 *The subject of SOWs varied from including: medical, furniture, education, technology.
 
-![Word Cloud]()
+![Word Cloud](https://github.com/KSohi-max/PDF_NLP_DataExtraction/blob/main/images/word_cloud_SOW.png)
 
 ### spaCy Word Label
 
@@ -53,7 +53,7 @@ For the following key items the code is still under development:
 * Nature of Resources
 * Currency
 
-![spaCy Word Extraction]()
+![spaCy Word Extraction](https://github.com/KSohi-max/PDF_NLP_DataExtraction/blob/main/images/spaCy.png)
 
 ### K-Mean Cluster
 
@@ -61,7 +61,7 @@ For the following key items the code is still under development:
 * The high risk SOWs based on Committed Funds ($s) is Cluster 0: Construction Industry based SOWs
 * The value of Medium and Low risk SOWs were difficult to assess as the value of Committed Funds were either not in the publicly available SOWs or were difficult to extract for analysis.
 
-![K-Mean Cluster]()
+![K-Mean Cluster](https://github.com/KSohi-max/PDF_NLP_DataExtraction/blob/main/images/k_Mean.png)
 
 ## Conclusion
 
